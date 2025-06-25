@@ -1,0 +1,102 @@
+# =======================================
+# Python Bytecode
+# =======================================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =======================================
+# Virtual Environment
+# =======================================
+env/
+venv/
+ENV/
+env.bak/
+.venv/
+.pyenv/
+
+# =======================================
+# Environment Variables
+# =======================================
+.env
+.env.*
+*.env
+
+# =======================================
+# Logs
+# =======================================
+*.log
+logs/
+
+# =======================================
+# Distribution / Packaging
+# =======================================
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+pip-wheel-metadata/
+wheelhouse/
+
+# =======================================
+# Unit test / Coverage reports
+# =======================================
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+pytest_cache/
+.pytest_cache/
+.pyre/
+
+# =======================================
+# Jupyter Notebooks
+# =======================================
+.ipynb_checkpoints/
+
+# =======================================
+# MyPy / Pyright / Pyre
+# =======================================
+.mypy_cache/
+.dmypy.json
+.pytype/
+.pyright/
+
+# =======================================
+# Editors and IDEs
+# =======================================
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# =======================================
+# OS Files
+# =======================================
+.DS_Store
+Thumbs.db
+
+# =======================================
+# Backup and temporary files
+# =======================================
+*.bak
+*.tmp
+*.swp
+*.swo
+*~
